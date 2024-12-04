@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/mediafoks/mediafoks/img/hero/keyboard.jpg](https://github.com/mediafoks/mediafoks/blob/main/img/hero/keyboard.jpg)
+![https://raw.githubusercontent.com/mediafoks/mediafoks/img/hero/keyboard.png](https://github.com/mediafoks/mediafoks/blob/main/img/hero/keyboard.png)
 
 <!--
 **mediafoks/mediafoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
